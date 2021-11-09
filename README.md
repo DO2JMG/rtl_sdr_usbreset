@@ -1,0 +1,2 @@
+# usbreset
+Reset rtl-sdr
