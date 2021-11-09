@@ -12,4 +12,4 @@ make
 
 <h1>Example</h1>
 
-./usbreset -d <device-index>
+./usbreset -d device-index
