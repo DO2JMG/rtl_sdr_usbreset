@@ -6,7 +6,7 @@ Reset rtl-sdr
 
 sudo apt-get install libudev-dev libusb-dev
 
-cd usbreset
+cd rtl_sdr_usbreset
 
 make
 
